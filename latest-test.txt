@@ -1,4 +1,4 @@
-RezTank.Test.v2.33
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.33/RezTank.Test.v2.33.dll
-615c6b71230982d27e323f98f7fac3af0f2fee1845768781f75cb92cbdcaa7c9
-RezTank has moved to github.com/ResistanceLab/RezTank; this build checks the new location for updates. Includes everything since v2.19: Players tab, mini remote, Item HUD, no-downgrade updater, decisive Target lock.
+RezTank.Test.v2.34
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.34/RezTank.Test.v2.34.dll
+ca9960de02e35a95d2040c7582d0c769711048a118bdbd569430dc6ae61117ba
+Update-channel test build

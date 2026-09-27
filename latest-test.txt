@@ -1,4 +1,4 @@
-RezTank.Test.v2.40
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.40/RezTank.Test.v2.40.dll
-277d0fcd08c286113a1d6f442ce2d6d0049af1396b3cfe01328f4455b7fee784
-AutoCram tab: foci in pack slots are detected and labelled (Foci) - shown but never filled
+RezTank.Test.v2.42
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.42/RezTank.Test.v2.42.dll
+2ee89997a4dd92946141baa37bd62cf59095181c83c5eb4eed9e0022cbd50c61
+UtilityBelt compatibility fix (UB Looter spam, UB VTank locks); /vt extif; AutoCram shows foci

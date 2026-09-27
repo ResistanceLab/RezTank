@@ -1,4 +1,4 @@
-RezTank.Test.v2.34
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.34/RezTank.Test.v2.34.dll
-ca9960de02e35a95d2040c7582d0c769711048a118bdbd569430dc6ae61117ba
-Update-channel test build
+RezTank.Test.v2.35
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.35/RezTank.Test.v2.35.dll
+584957b42f4b8af06cf8062e3df33e7babeea4581edfbb9880d9fd257ae8f6b3
+Mini remote and Item HUD no longer require Virindi Hotkey System

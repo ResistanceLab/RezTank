@@ -1,4 +1,4 @@
-RezTank.Test.v2.37
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.37/RezTank.Test.v2.37.dll
-4633ecdbb4b0337461a7393e0606e2fff2dfbfd40618c9351fc247fc8d79bfc6
-Per-monster Range column on the Monsters and Players tabs
+RezTank.Test.v2.39
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.39/RezTank.Test.v2.39.dll
+c11818ae87b5ba0c6c76ee2a53e117e878c009f7eddde3f42e4576be8892ad1c
+New AutoCram tab: 8 pack slots (slot 8 = Aug), tick the side packs AutoCram may fill; per-monster/player Range column

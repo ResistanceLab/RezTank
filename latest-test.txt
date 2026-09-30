@@ -1,4 +1,4 @@
-RezTank.Test.v2.48
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.48/RezTank.Test.v2.48.dll
-7a1da4c750af229cbb9e3852f495b200f1ed76d3ab9afc480785353e7bd9943e
-RezTank Mini Remote + collapse button; Periodic tab; Buffs school tick boxes
+RezTank.Test.v2.49
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.49/RezTank.Test.v2.49.dll
+9fe1d25f1d0c188b9d66f4b9d202f3c05ed8ee99d7fb5c3c2331e31dce8c2a07
+Autopack on/off tick box; RezTank Mini Remote + collapse; Periodic tab; Buffs school tick boxes

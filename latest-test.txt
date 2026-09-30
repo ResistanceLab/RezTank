@@ -1,4 +1,4 @@
-RezTank.Test.v2.56
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.56/RezTank.Test.v2.56.dll
-dc70eaf85d1a098d63a6b3bb82489db2193c17b7b56e8a4b90b92e41e920a57a
-Buff chooser: player-castable buffs only (no Prodigal/Gauntlet/Sigil/portals/debuffs); Monster DB tab + per-server database.txt; built-in heal kits; Periodic tab; mini remote collapse
+RezTank.Test.v2.57
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.57/RezTank.Test.v2.57.dll
+9592ee8f24d9ed6bc9772af74cdd7c4df9e1ecc4591610b16ca77fb4b3675299
+Monster DB tab shows the monster count without typing

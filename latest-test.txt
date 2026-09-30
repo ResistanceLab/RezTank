@@ -1,4 +1,4 @@
-RezTank.Test.v2.42
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.42/RezTank.Test.v2.42.dll
-2ee89997a4dd92946141baa37bd62cf59095181c83c5eb4eed9e0022cbd50c61
-UtilityBelt compatibility fix (UB Looter spam, UB VTank locks); /vt extif; AutoCram shows foci
+RezTank.Test.v2.48
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.48/RezTank.Test.v2.48.dll
+7a1da4c750af229cbb9e3852f495b200f1ed76d3ab9afc480785353e7bd9943e
+RezTank Mini Remote + collapse button; Periodic tab; Buffs school tick boxes

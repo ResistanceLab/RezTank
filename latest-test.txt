@@ -1,4 +1,4 @@
-RezTank.Test.v2.57
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.57/RezTank.Test.v2.57.dll
-9592ee8f24d9ed6bc9772af74cdd7c4df9e1ecc4591610b16ca77fb4b3675299
-Monster DB tab shows the monster count without typing
+RezTank.Test.v2.59
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.59/RezTank.Test.v2.59.dll
+85816e257dceca17b33dcdc87d421bde83f737e9473210dffd121b65c7c7ad4a
+Route tab: Record / Stop drops waypoints while you run. Kill messages no longer drop a live target. Admin (+Name) corpses loot. Monster DB tab shows the count without typing.

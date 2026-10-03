@@ -1,4 +1,4 @@
-RezTank.Test.v2.62
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.62/RezTank.Test.v2.62.dll
-c3916717a9b0b4e81b1b8ea0bf54033623d108d5fedec7d29ff4b62a47a94d1a
-Route tab: Record by distance (m + corners) or by time (ms); Smooth turning. Kill messages no longer drop a live target. Admin (+Name) corpses loot. Monster DB count without typing.
+RezTank.Test.v2.64
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.64/RezTank.Test.v2.64.dll
+428638c960bd70502a1c96952eb5ed81ddc7baab6904e605219012a0c4761c24
+Update check at login and every hour. Error log moved to Documents\Decal Plugins\RezTank\reztank-error.txt. Fix: endless 'trying to stop macro' spam; login error from monster dropdown. Record by m or ms; Smooth turning.

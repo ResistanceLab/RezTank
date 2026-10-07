@@ -1,4 +1,4 @@
-RezTank.Test.v2.67
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.67/RezTank.Test.v2.67.dll
-d7584588b114b507d37bd6a6661a4dceae12a668706bd3f7db0b10aae1c3bc20
-Periodic tab: Autosalvage (/ub autosalvage force) and /b d every mm:ss - only when not fighting or looting, queued until free, macro held until UB reports done. Hourly update check; error log in Decal Plugins\RezTank.
+RezTank.Test.v2.69
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.69/RezTank.Test.v2.69.dll
+59bbaae1dd27c446c45d5977c01b49410d106f1fff9f7a76553bc3652a1189f3
+Options: Any Pet Mastery (use essences of any summoning school). Periodic: Autosalvage and /b d every mm:ss, only when not fighting or looting. Hourly update check; error log in Decal Plugins\RezTank.

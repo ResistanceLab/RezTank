@@ -1,4 +1,4 @@
-RezTank.Test.v2.69
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.69/RezTank.Test.v2.69.dll
-59bbaae1dd27c446c45d5977c01b49410d106f1fff9f7a76553bc3652a1189f3
-Options: Any Pet Mastery (use essences of any summoning school). Periodic: Autosalvage and /b d every mm:ss, only when not fighting or looting. Hourly update check; error log in Decal Plugins\RezTank.
+RezTank.Test.v2.70
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.70/RezTank.Test.v2.70.dll
+1aa76dc7fc0a5fad897e76aa8b20e5d4d3dbfa7ef1e4fafed3332ddd5c9d5b1a
+Options: Any Pet Mastery and Pets w/o Combat (summon whenever the macro runs). Periodic: Autosalvage and /b d every mm:ss, only when not fighting or looting. Hourly update check; error log in Decal Plugins\RezTank.

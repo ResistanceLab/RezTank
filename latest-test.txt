@@ -1,4 +1,4 @@
-RezTank.Test.v2.74
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.74/RezTank.Test.v2.74.dll
-73898fc540be7ca04c7d3d7b45b87c0ba9a4d0ed84a556a76d8acd94c74408b9
-Periodic /b d: only combat blocks it; retries every 10 s until [BANK] Deposited all, then restarts the timer. Pets w/o Combat also refills essences. Autosalvage sees UB complete line under VCS5.
+RezTank.Test.v2.75
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.75/RezTank.Test.v2.75.dll
+7bfc78f87c64dc078d39b340ee764f976b18a10dd746e73519b9d0e9c79a61fe
+Default weapon: a wand kept in Items for buffing is no longer picked as the weapon on melee/missile characters (no more drain fallback). /b d retries until confirmed. Pets w/o Combat refills essences.

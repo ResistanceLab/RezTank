@@ -1,4 +1,4 @@
-RezTank.Test.v2.70
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.70/RezTank.Test.v2.70.dll
-1aa76dc7fc0a5fad897e76aa8b20e5d4d3dbfa7ef1e4fafed3332ddd5c9d5b1a
-Options: Any Pet Mastery and Pets w/o Combat (summon whenever the macro runs). Periodic: Autosalvage and /b d every mm:ss, only when not fighting or looting. Hourly update check; error log in Decal Plugins\RezTank.
+RezTank.Test.v2.73
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.73/RezTank.Test.v2.73.dll
+5573645f74b6485f916ecca703f0ee8af3ae8d2d4df1d62f63ed4a75f9b74371
+Pets w/o Combat now also refills essences with Encapsulated Spirits. Autosalvage sees UB's complete line under VCS5. Pet options; Periodic /b d.

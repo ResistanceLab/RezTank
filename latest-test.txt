@@ -1,4 +1,4 @@
-RezTank.Test.v2.73
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.73/RezTank.Test.v2.73.dll
-5573645f74b6485f916ecca703f0ee8af3ae8d2d4df1d62f63ed4a75f9b74371
-Pets w/o Combat now also refills essences with Encapsulated Spirits. Autosalvage sees UB's complete line under VCS5. Pet options; Periodic /b d.
+RezTank.Test.v2.74
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.74/RezTank.Test.v2.74.dll
+73898fc540be7ca04c7d3d7b45b87c0ba9a4d0ed84a556a76d8acd94c74408b9
+Periodic /b d: only combat blocks it; retries every 10 s until [BANK] Deposited all, then restarts the timer. Pets w/o Combat also refills essences. Autosalvage sees UB complete line under VCS5.

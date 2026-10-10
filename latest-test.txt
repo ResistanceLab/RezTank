@@ -1,4 +1,4 @@
-RezTank.Test.v2.76
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.76/RezTank.Test.v2.76.dll
-740d25da39ce23da1c9372f4a1b647b927203f10cefcd9cff41f28a23dfd1e90
-UtilityBelt VTank Extensions now work on RezTank: meta expressions with listcreate/dictcreate etc. (fixes 'Call to unknown function' errors for UB users). Default weapon ignores buff-only wands. /b d retries until confirmed.
+RezTank.Test.v2.79
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.79/RezTank.Test.v2.79.dll
+2b1cece45b98b362f80331701c0ac11d3d1cdda421a61091def9181b08121789
+Options: Peace w/o Combat (drop to peace when idle even with Combat off). Void casters: DoTs only from their columns; Vuln before Imperil. UB VTank Extensions work on RezTank.

@@ -1,4 +1,4 @@
-RezTank.Test.v2.86
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.86/RezTank.Test.v2.86.dll
-819d623e6d23a04170942f9c92f08747f78ab34d7ab7d87951206da98c109294
-Options now has General and Summons sub-tabs. Pets: PetDmg Auto (essence by monster DB) default with one-time migration, PAuto renamed Match My Element. Character tab (from Oracle of Dereth, MIT) + Void Target HUD; resizable width; includes v2.76-v2.79.
+RezTank.Test.v2.88
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.88/RezTank.Test.v2.88.dll
+f43ae818929458f0934cf48c2091cfb47cf210a5c24c321975320bbdedf18365
+Periodic, Monster DB and AutoCram moved under Options (sub-tabs: General, Summons, Periodic, Monster DB, AutoCram).

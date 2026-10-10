@@ -1,4 +1,4 @@
-RezTank.Test.v2.79
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.79/RezTank.Test.v2.79.dll
-2b1cece45b98b362f80331701c0ac11d3d1cdda421a61091def9181b08121789
-Options: Peace w/o Combat (drop to peace when idle even with Combat off). Void casters: DoTs only from their columns; Vuln before Imperil. UB VTank Extensions work on RezTank.
+RezTank.Test.v2.81
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.81/RezTank.Test.v2.81.dll
+6699c8095938ee2123909d512075725b6537a455f66fd7ae489c9d0746c0f67c
+Character tab (Augmentations/Credits/Luminance/Recalls/Society, from Oracle of Dereth, MIT) + Void Target HUD option; main window resizable in width; includes v2.76-v2.79.

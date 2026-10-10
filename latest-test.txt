@@ -1,4 +1,4 @@
-RezTank.Test.v2.81
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.81/RezTank.Test.v2.81.dll
-6699c8095938ee2123909d512075725b6537a455f66fd7ae489c9d0746c0f67c
-Character tab (Augmentations/Credits/Luminance/Recalls/Society, from Oracle of Dereth, MIT) + Void Target HUD option; main window resizable in width; includes v2.76-v2.79.
+RezTank.Test.v2.82
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.82/RezTank.Test.v2.82.dll
+47a8301f74f5635639c28ae5c5e17dc11a3d19289151fae2c2cc69cf08049dad
+Pets: essence chosen by monster DB (best element you carry). Character tab (from Oracle of Dereth, MIT) + Void Target HUD; resizable width; includes v2.76-v2.79.

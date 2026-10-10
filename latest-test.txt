@@ -1,4 +1,4 @@
-RezTank.Test.v2.82
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.82/RezTank.Test.v2.82.dll
-47a8301f74f5635639c28ae5c5e17dc11a3d19289151fae2c2cc69cf08049dad
-Pets: essence chosen by monster DB (best element you carry). Character tab (from Oracle of Dereth, MIT) + Void Target HUD; resizable width; includes v2.76-v2.79.
+RezTank.Test.v2.83
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.83/RezTank.Test.v2.83.dll
+eaabc623cf3ef1f5879bfd49e3055be3f4dbb721f91bb82430c63ab482312a07
+Pets: PetDmg Auto = essence by monster DB (new default), PAuto renamed Match My Element. Character tab (from Oracle of Dereth, MIT) + Void Target HUD; resizable width; includes v2.76-v2.79.

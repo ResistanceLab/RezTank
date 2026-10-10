@@ -1,4 +1,4 @@
-RezTank.Test.v2.75
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.75/RezTank.Test.v2.75.dll
-7bfc78f87c64dc078d39b340ee764f976b18a10dd746e73519b9d0e9c79a61fe
-Default weapon: a wand kept in Items for buffing is no longer picked as the weapon on melee/missile characters (no more drain fallback). /b d retries until confirmed. Pets w/o Combat refills essences.
+RezTank.Test.v2.76
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.76/RezTank.Test.v2.76.dll
+740d25da39ce23da1c9372f4a1b647b927203f10cefcd9cff41f28a23dfd1e90
+UtilityBelt VTank Extensions now work on RezTank: meta expressions with listcreate/dictcreate etc. (fixes 'Call to unknown function' errors for UB users). Default weapon ignores buff-only wands. /b d retries until confirmed.

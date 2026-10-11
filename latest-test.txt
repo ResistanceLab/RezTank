@@ -1,4 +1,4 @@
-RezTank.Test.v2.94
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.94/RezTank.Test.v2.94.dll
-245711ac47eb8a10d1295f23fcba583724408ca26826effc1164c6f980e9e77d
-Window grows on the Character tab and shrinks back on other tabs. Consumables and buffing wand checked against skill/wield requirements. 0-health targets dropped at once. Always Summon. Periodic, Monster DB and AutoCram moved under Options.
+RezTank.Test.v2.95
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.95/RezTank.Test.v2.95.dll
+2ca54f5208ef160e0129460e648a20d1b925a2279e4ad7b268acca543168bda5
+Items showing <INVALID> on the Monsters tab are resolved via the world filter. Window grows on the Character tab. Consumables and buffing wand checked against requirements. 0-health targets dropped at once. Always Summon. Periodic, Monster DB and AutoCram moved under Options.

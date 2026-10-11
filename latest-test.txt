@@ -1,4 +1,4 @@
-RezTank.Test.v2.88
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.88/RezTank.Test.v2.88.dll
-f43ae818929458f0934cf48c2091cfb47cf210a5c24c321975320bbdedf18365
-Periodic, Monster DB and AutoCram moved under Options (sub-tabs: General, Summons, Periodic, Monster DB, AutoCram).
+RezTank.Test.v2.90
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.90/RezTank.Test.v2.90.dll
+344905b401b785995514216ca4bb3f522fc8fba15226d4a6eb53e5550ad079fe
+Summons: Always Summon keeps a pet out at all times - macro on or off, no monsters needed. Periodic, Monster DB and AutoCram moved under Options.

@@ -1,4 +1,4 @@
-RezTank.Test.v2.91
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.91/RezTank.Test.v2.91.dll
-73041937c4b31b12979343e34b58f8ab2cec158aa4f70b07ee0a47dcae88a5f7
-Combat: a target at 0 health is dropped at once instead of being hit through its death animation. Summons: Always Summon. Periodic, Monster DB and AutoCram moved under Options.
+RezTank.Test.v2.93
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.93/RezTank.Test.v2.93.dll
+e0df6030ad6b958ad68909d08d0d0791ce6e0ed97d26148ecf087fc01549e959
+Consumables: buff items the character can no longer activate are skipped with one warning. Items: buffing wand must be wieldable. Combat: 0-health targets dropped at once. Summons: Always Summon. Periodic, Monster DB and AutoCram moved under Options.

@@ -1,4 +1,4 @@
-RezTank.Test.v2.99
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.99/RezTank.Test.v2.99.dll
-a3f2c1ad6909c247fdd4ad73b9b45c4a9d8f8b5c31c151e9ca3e8c8442b544b2
-Mini Remote: CS button runs Force Combine Salvage with the macro off. Options > Salvage tab. Void HUD tracks own DoT casts. Character: all gem quests visible. Items <INVALID> fix, window grows on Character tab, requirement checks, 0-health targets dropped, Always Summon, Periodic/Monster DB/AutoCram under Options.
+RezTank.Test.v3.00
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.00/RezTank.Test.v3.00.dll
+65c12e7c6fde89d92a5683658de5d3d7026062a8ea9cbd021396fe3cf4ef7657
+Force Combine Salvage: all material groups per pass, next pass as soon as the server answers. Mini Remote CS button. Options > Salvage tab. Void HUD tracks own DoT casts. Character: all gem quests visible. Items <INVALID> fix, window grows on Character tab, requirement checks, 0-health targets dropped, Always Summon, Periodic/Monster DB/AutoCram under Options.

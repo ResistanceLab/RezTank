@@ -1,4 +1,4 @@
-RezTank.Test.v2.96
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.96/RezTank.Test.v2.96.dll
-566ec8530ba7a7c021d206f8f0ee1ef1cfc7d36c52fc5a41eea9686f543ee8f4
-Character: all six gem quests visible. Items showing <INVALID> resolved via the world filter. Window grows on the Character tab. Consumables and buffing wand checked against requirements. 0-health targets dropped at once. Always Summon. Periodic, Monster DB and AutoCram moved under Options.
+RezTank.Test.v2.97
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v2.97/RezTank.Test.v2.97.dll
+e4903604b0938ad1f84f2e8bd613fa0fa31f3ae397afde608059b0fa2ace2ca5
+Void Target HUD tracks your own DoT casts. Character: all six gem quests visible. Items <INVALID> fix, window grows on Character tab, requirement checks on consumables and wands, 0-health targets dropped, Always Summon, Periodic/Monster DB/AutoCram under Options.

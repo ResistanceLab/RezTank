@@ -1,4 +1,4 @@
-RezTank.Test.v3.00
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.00/RezTank.Test.v3.00.dll
-65c12e7c6fde89d92a5683658de5d3d7026062a8ea9cbd021396fe3cf4ef7657
-Force Combine Salvage: all material groups per pass, next pass as soon as the server answers. Mini Remote CS button. Options > Salvage tab. Void HUD tracks own DoT casts. Character: all gem quests visible. Items <INVALID> fix, window grows on Character tab, requirement checks, 0-health targets dropped, Always Summon, Periodic/Monster DB/AutoCram under Options.
+RezTank.Test.v3.02
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.02/RezTank.Test.v3.02.dll
+2ff2c16cd7625e7333086c90a8f5e2731381eb98e0bcea9cb1cec7f3e44f1342
+New /rt commands: /rt autosalvage [force|stop], /rt combine, /rt help. Built-in autosalvage (Salvage Now and Periodic without UtilityBelt), faster Force Combine, Mini Remote CS button, Options > Salvage tab, Void HUD own-cast timers, Character fixes, Items <INVALID> fix, requirement checks, 0-health targets dropped, Always Summon.

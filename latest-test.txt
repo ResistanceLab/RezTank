@@ -1,4 +1,4 @@
-RezTank.Test.v3.09
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.09/RezTank.Test.v3.09.dll
-5b7a99ab2d941101a7d387b926c65363a887fd08362da374a79ff0c0984f0bf9
-UtilityBelt meta views, meta-view buttons, Chat Message Capture and DontStopOnError now find their VTank names (12 more aliases). Carries v2.87-v3.08: Mini Remote logo toggle, Gold Heaume icon, /rt commands, built-in autosalvage, Periodic Salvage row, Always Summon, Character tab, Void HUD timers, requirement checks.
+RezTank.Test.v3.10
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.10/RezTank.Test.v3.10.dll
+7948ad678f46541d95a97104eca71854bcf12ae669b78d523bc60bf1f30030fd
+UtilityBelt actiontrycastbyid (Colo Recall etc.) can equip a wand again: 3 more VTank names aliased (PluginCore.dz, Class5.o, Class200.a). Carries v3.09 meta-view/button/ChatCapture aliases and v2.87-v3.08.

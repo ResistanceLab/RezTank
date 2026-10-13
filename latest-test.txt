@@ -1,4 +1,4 @@
-RezTank.Test.v3.07
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.07/RezTank.Test.v3.07.dll
-96d4175c6ab5053f9947d4fc32260e52daf5247cdff7aacb4da246f984d98279
-Gold Heaume icon on the main window, Mini Remote and HUDs. /rt dumpicon, Periodic Salvage every row (/rt autosalvage force), /rt commands, Salvage Now, faster Force Combine, Mini Remote CS button, Void HUD own-cast timers, Character fixes, Items <INVALID> fix, requirement checks, 0-health targets dropped, Always Summon.
+RezTank.Test.v3.08
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.08/RezTank.Test.v3.08.dll
+9208f8843199658724774ed2b1ce718765cec6397d9e51f8db55bba10a926e93
+Mini Remote logo toggles the main window. Gold Heaume icon, /rt dumpicon, Periodic Salvage every row (/rt autosalvage force), /rt commands, Salvage Now, faster Force Combine, Mini Remote CS button, Void HUD own-cast timers, Character fixes, Items <INVALID> fix, requirement checks, 0-health targets dropped, Always Summon.

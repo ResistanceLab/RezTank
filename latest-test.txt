@@ -1,4 +1,4 @@
-RezTank.Test.v3.02
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.02/RezTank.Test.v3.02.dll
-2ff2c16cd7625e7333086c90a8f5e2731381eb98e0bcea9cb1cec7f3e44f1342
-New /rt commands: /rt autosalvage [force|stop], /rt combine, /rt help. Built-in autosalvage (Salvage Now and Periodic without UtilityBelt), faster Force Combine, Mini Remote CS button, Options > Salvage tab, Void HUD own-cast timers, Character fixes, Items <INVALID> fix, requirement checks, 0-health targets dropped, Always Summon.
+RezTank.Test.v3.07
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.07/RezTank.Test.v3.07.dll
+96d4175c6ab5053f9947d4fc32260e52daf5247cdff7aacb4da246f984d98279
+Gold Heaume icon on the main window, Mini Remote and HUDs. /rt dumpicon, Periodic Salvage every row (/rt autosalvage force), /rt commands, Salvage Now, faster Force Combine, Mini Remote CS button, Void HUD own-cast timers, Character fixes, Items <INVALID> fix, requirement checks, 0-health targets dropped, Always Summon.

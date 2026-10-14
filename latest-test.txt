@@ -1,4 +1,4 @@
-RezTank.Test.v3.10
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.10/RezTank.Test.v3.10.dll
-7948ad678f46541d95a97104eca71854bcf12ae669b78d523bc60bf1f30030fd
-UtilityBelt actiontrycastbyid (Colo Recall etc.) can equip a wand again: 3 more VTank names aliased (PluginCore.dz, Class5.o, Class200.a). Carries v3.09 meta-view/button/ChatCapture aliases and v2.87-v3.08.
+RezTank.Test.v3.11
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.11/RezTank.Test.v3.11.dll
+821d30a23367ca73828270df6c012d532f902279a74a2bebc4c85bdda7595bad
+Periodic tab: one line per action (help text beside the timer, shorter status wording). Carries v3.10 (UB wand-equip aliases), v3.09 (UB meta-view/button/ChatCapture aliases) and v2.87-v3.08.

@@ -1,4 +1,4 @@
-RezTank.Test.v3.12
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.12/RezTank.Test.v3.12.dll
-a4b4c9d7bda482e6baf230933e8d3950d7a224f33cc09c105d6055e4a771a5a3
-Autosalvage: identifies items itself (10/s) and waits for the IDs before salvaging, so everything goes in full batches instead of one item per pass; no combine step when nothing was salvaged; pass timings logged. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.13
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.13/RezTank.Test.v3.13.dll
+146cb29c97e2b7071c7d11d356ef6bcf6e1538243ae727964242f779d54521cf
+Autosalvage: identifies items itself (10/s) and waits for the IDs before salvaging, so everything goes in full batches; ID progress shown on the Salvage tab only (no chat spam); no combine step when nothing was salvaged; pass timings logged. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.

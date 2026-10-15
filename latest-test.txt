@@ -1,4 +1,4 @@
-RezTank.Test.v3.27
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.27/RezTank.Test.v3.27.dll
-216948834fd63cfb77404baf3f37f5bfe87f800beccb0fdb63447bd3bbd8cb75
-Character > Society: NPC column, and clicking a quest also targets your society's quest NPC when in range (names it when not). Character tab moved to the end. Periodic Salvage every saves again. Mini Remote / Ultra Mini Remote independent. Per-character files in CharacterFiles\Server\Character\. Autosalvage speed fixes. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.28
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.28/RezTank.Test.v3.28.dll
+5aeab8780b332bc1eed1c2127f6b2f975a2e6d3c1a7c07e1711cf80c2994fd00
+Character > Society: Status column (Not started / In progress n-of-N from inventory or kill stamps / Ready to hand in in green / Done), NPC column, and clicking a quest targets your society's quest NPC. Character tab moved to the end. Periodic Salvage every saves again. Mini Remote / Ultra Mini Remote independent. Per-character files in CharacterFiles\Server\Character\. Autosalvage speed fixes. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.

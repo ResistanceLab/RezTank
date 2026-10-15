@@ -1,4 +1,4 @@
-RezTank.Test.v3.24
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.24/RezTank.Test.v3.24.dll
-8fc805ec12dcc44413181275fafd62dd4eff0a2494d5b92358209b99f9a0b864
-Periodic: the built-in Salvage every time is saved again when you press Enter (it stayed off). Mini Remote and Ultra Mini Remote open independently; /vt miniremote keeps Ultra mode. Per-character files in CharacterFiles\Server\Character\. RezChest-style X on the remote. Autosalvage: base-data judging, UtilityBelt-speed IDs, full 20-item passes. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.25
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.25/RezTank.Test.v3.25.dll
+899cf83c6b832cf1e4c03af942fb5336f413314dd64f5ee359405767fbbd26e8
+Character tab moved to the end of the tab row. Periodic: the built-in Salvage every time is saved again when you press Enter. Mini Remote and Ultra Mini Remote open independently; /vt miniremote keeps Ultra mode. Per-character files in CharacterFiles\Server\Character\. RezChest-style X on the remote. Autosalvage: base-data judging, UtilityBelt-speed IDs, full 20-item passes. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.

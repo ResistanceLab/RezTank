@@ -1,4 +1,4 @@
-RezTank.Test.v3.30
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.30/RezTank.Test.v3.30.dll
-de0bcf1dc1951d4e3149177e85888672e92153c781496ce59292ef066bd1dffe
-Character > Society: Status column (Not started / In progress n-of-N / Ready to hand in / Done; collection tasks count as started once the NPC gives you the task), NPC column, click-to-target. Character tab last. Periodic Salvage every saves again. Mini Remote / Ultra Mini Remote independent. Per-character files in CharacterFiles. Autosalvage speed fixes. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.34
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.34/RezTank.Test.v3.34.dll
+fc12bfb364f938700eb5def1cfd75a3e4f3afc7da07d0e3f1712568236489a03
+Society Helper mini HUD (Character > Society > Mini HUD): ribbon status, Initiate/Adept/Knight/Lord/Master filters, quest list with live Status and click-to-target; -/+ collapse and X like the other HUDs. Society tab Status column updates live from chat. Character tab last. Periodic Salvage every saves again. Mini Remote / Ultra Mini Remote independent. Per-character files in CharacterFiles. Autosalvage speed fixes. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.

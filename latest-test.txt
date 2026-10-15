@@ -1,4 +1,4 @@
-RezTank.Test.v3.19
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.19/RezTank.Test.v3.19.dll
-1a97deca6121de86e14d743dec1ee6178f98a37090b9b9930338fb33090aa791
-Mini Remote: RezChest-style X close button; new Ultra Mini Remote (Options > General, under Mini Remote) shows only the six rows and their buttons. Autosalvage: un-ID'd items judged from base data when the profile needs no ID, UtilityBelt-speed IDs otherwise, full 20-item passes, no combine when nothing was salvaged. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.21
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.21/RezTank.Test.v3.21.dll
+9f7bd57ff32d737b5d29739e5e485fcbf0983c66dec5b0032f4bf2687dac9242
+Per-character files (window positions, Item HUD list) now live in CharacterFiles\Server\Character\ under the plugin folder, migrated automatically; no longer lost to settings-profile loads or overwritten by other clients. Mini Remote: RezChest-style X; Ultra Mini Remote option. Autosalvage: un-ID'd items judged from base data when the profile needs no ID, UtilityBelt-speed IDs otherwise, full 20-item passes. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.

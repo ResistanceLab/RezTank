@@ -1,4 +1,4 @@
-RezTank.Test.v3.15
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.15/RezTank.Test.v3.15.dll
-6bdf336ce921d33eaebab4823bd294e06aa35ae0fc37a3e0c3a697b71579b2e4
-Autosalvage: unidentified items are now judged from base data when the loot profile does not need ID (fixes gems only trickling in a few per click); items that do need ID are identified UtilityBelt-style (direct, ~13/s); full 20-item passes; no combine when nothing was salvaged. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.19
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.19/RezTank.Test.v3.19.dll
+1a97deca6121de86e14d743dec1ee6178f98a37090b9b9930338fb33090aa791
+Mini Remote: RezChest-style X close button; new Ultra Mini Remote (Options > General, under Mini Remote) shows only the six rows and their buttons. Autosalvage: un-ID'd items judged from base data when the profile needs no ID, UtilityBelt-speed IDs otherwise, full 20-item passes, no combine when nothing was salvaged. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.

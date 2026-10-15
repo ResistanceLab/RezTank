@@ -1,4 +1,4 @@
-RezTank.Test.v3.13
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.13/RezTank.Test.v3.13.dll
-146cb29c97e2b7071c7d11d356ef6bcf6e1538243ae727964242f779d54521cf
-Autosalvage: identifies items itself (10/s) and waits for the IDs before salvaging, so everything goes in full batches; ID progress shown on the Salvage tab only (no chat spam); no combine step when nothing was salvaged; pass timings logged. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.15
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.15/RezTank.Test.v3.15.dll
+6bdf336ce921d33eaebab4823bd294e06aa35ae0fc37a3e0c3a697b71579b2e4
+Autosalvage: unidentified items are now judged from base data when the loot profile does not need ID (fixes gems only trickling in a few per click); items that do need ID are identified UtilityBelt-style (direct, ~13/s); full 20-item passes; no combine when nothing was salvaged. Periodic tab one line per action. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.

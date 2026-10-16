@@ -1,4 +1,4 @@
-RezTank.Test.v3.57
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.57/RezTank.Test.v3.57.dll
-3948334bf233db504fc20bb3a2f1c3bff9df6cd146788e758ddbcc15c7e8a24f
-Corpse wait after a kill (hold movement until the corpse appears), /rt corpsetrace, /rt corpsewait; carries v3.39-v3.56
+RezTank.Test.v3.58
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.58/RezTank.Test.v3.58.dll
+91406a968d030c6be348a91383b22e05ce846853915b666011530862a94345df
+ID queue priority order + 3 per tick; Click IDs prints only RezTank's own IDs; corpse wait after a kill (/rt corpsewait, /rt corpsetrace); carries v3.39-v3.56

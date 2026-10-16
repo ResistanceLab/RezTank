@@ -1,4 +1,4 @@
-RezTank.Test.v3.62
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.62/RezTank.Test.v3.62.dll
-9a9da7177dc1ba41f7592e33a7d4cbcfcf2479ac3c8e1104d38232982d4e160e
-Item Info on ID = right-click, Click IDs = left-click; Society HUD On Cooldown HH:MM; Vault windows not listed on open; ID queue priority + 3 per tick; corpse wait after a kill; carries v3.39-v3.56
+RezTank.Test.v3.63
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.63/RezTank.Test.v3.63.dll
+8fe4e0c23887730b2fca15a51751c33ad943a4cdce57b8dfb5d1f620eada8514
+Update tab with Check for Update + progress bar, /rt update; Item Info on ID = right-click, Click IDs = left-click; Society HUD On Cooldown HH:MM; Vault windows not listed on open; ID queue priority + 3 per tick; corpse wait after a kill; carries v3.39-v3.56

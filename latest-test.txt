@@ -1,4 +1,4 @@
-RezTank.Test.v3.59
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.59/RezTank.Test.v3.59.dll
-d38ff455a25742071c5554eeb41838007e456605808b211173579d91b2133115
-Item Info: Vault/vendor windows not listed on open (click an item for its line); ID queue priority order + 3 per tick; Click IDs prints only RezTank's own IDs; corpse wait after a kill; carries v3.39-v3.56
+RezTank.Test.v3.60
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.60/RezTank.Test.v3.60.dll
+db5f138b16bb77d90107e0864c88fcaa884ff01716be16bf0d378889c1d7cf31
+Society HUD On Cooldown HH:MM; Vault/vendor windows not listed on open; ID queue priority + 3 per tick; Click IDs prints only RezTank's own IDs; corpse wait after a kill; carries v3.39-v3.56

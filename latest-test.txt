@@ -1,4 +1,4 @@
-RezTank.Test.v3.37
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.37/RezTank.Test.v3.37.dll
-ea91ad8ada299a1daa2be35198ad162d9c2a4cfb42bc6b40e30cd6d1a0766dac
-Society Helper mini HUD (Character > Society > Mini HUD): ribbon status, rank filters, quest list with live Status and click-to-target. Society Status: kill tasks match the server creature names (Killer Phyntos Swarms etc.), hand-in items in the pack show Ready even when the cooldown already stamped (Phyntos Queen), stamps re-read after a turn-in. Character tab last. Periodic Salvage every saves again. Mini Remote / Ultra Mini Remote independent. Per-character files in CharacterFiles. Autosalvage speed fixes. Carries v3.09/v3.10 UtilityBelt aliases and v2.87-v3.08.
+RezTank.Test.v3.55
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.55/RezTank.Test.v3.55.dll
+420ca8ed08d7bfb04193bcf5d3cf6452491ac3a6dc20b00174b8dec19a3b9f8f
+Chat prefix is now [RezTank]. Options > Decal: plugin bar order by icon with real icons and arrow buttons. Options > Summons: Summons Score and Delete Others' Summons. Character > Quests and Suit. Item Info on ID incl. Vault/vendor windows. Fixes the Mag-Tools protected-memory spam (relog once). Carries v3.37

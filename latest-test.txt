@@ -1,4 +1,4 @@
-RezTank.Test.v3.55
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.55/RezTank.Test.v3.55.dll
-420ca8ed08d7bfb04193bcf5d3cf6452491ac3a6dc20b00174b8dec19a3b9f8f
-Chat prefix is now [RezTank]. Options > Decal: plugin bar order by icon with real icons and arrow buttons. Options > Summons: Summons Score and Delete Others' Summons. Character > Quests and Suit. Item Info on ID incl. Vault/vendor windows. Fixes the Mag-Tools protected-memory spam (relog once). Carries v3.37
+RezTank.Test.v3.57
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.57/RezTank.Test.v3.57.dll
+3948334bf233db504fc20bb3a2f1c3bff9df6cd146788e758ddbcc15c7e8a24f
+Corpse wait after a kill (hold movement until the corpse appears), /rt corpsetrace, /rt corpsewait; carries v3.39-v3.56

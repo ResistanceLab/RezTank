@@ -1,4 +1,4 @@
-RezTank.Test.v3.68
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.68/RezTank.Test.v3.68.dll
-ccc62bc7e111c2d72fd0d6a47930ce3c886af2acb5551c1bf84191ba60214262
-UtilityBelt-compatible meta expressions built in (lists, dicts, $var, math, wobject finders, echo...), /rt combatstate; Item HUD click selects; Update tab; carries v3.39-v3.66
+RezTank.Test.v3.69
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.69/RezTank.Test.v3.69.dll
+6b2217f6737b3afe11ba4dfa86d0b846936c37bf7d548efb95f56f141b276424
+Void HUD: NICE removed, Surge follows the landing cast; UtilityBelt-compatible meta expressions built in, /rt combatstate; Item HUD click selects; Update tab; carries v3.39-v3.66

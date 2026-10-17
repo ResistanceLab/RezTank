@@ -1,4 +1,4 @@
-RezTank.Test.v3.65
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.65/RezTank.Test.v3.65.dll
-14c47625dfe161ab1abc7917f03333cde13cbe6d37d1f88f779b6dae8148e5c3
-Error-log noise removed; Click IDs independent of Item Info on ID; Update tab with Check for Update + progress bar, /rt update; Society HUD On Cooldown HH:MM; Vault windows not listed on open; ID queue priority + 3 per tick; corpse wait after a kill; carries v3.39-v3.56
+RezTank.Test.v3.66
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.66/RezTank.Test.v3.66.dll
+13e769f2a1c65d182641a9079564bdcfdc3ade5e6dfe120dcfd83dda09ae488c
+Error-log noise removed (owner resolution, salvage passes); Click IDs independent of Item Info on ID; Update tab with Check for Update + progress bar, /rt update; Society HUD On Cooldown HH:MM; Vault windows not listed on open; ID queue priority + 3 per tick; corpse wait after a kill; carries v3.39-v3.56

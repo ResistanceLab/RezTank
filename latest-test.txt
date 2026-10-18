@@ -1,4 +1,4 @@
-RezTank.Test.v3.75
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.75/RezTank.Test.v3.75.dll
-5794c60b9a66b598190b84587975d2bceb3122fcd637b41507af7daa765d4c06
-Skip Life/Creature spells from Equipment; Options > Melee tab; /rz commands; Void HUD fixes; UtilityBelt-compatible expressions; Item HUD click selects; Update tab; carries v3.39-v3.66
+RezTank.Test.v3.76
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.76/RezTank.Test.v3.76.dll
+d930aeb3549682549676cb869a7553c0200eefcf931410ba75f6252707025500
+v3.76: Skip Life/Creature spells from Equipment now also applies to self buffs and Force buff

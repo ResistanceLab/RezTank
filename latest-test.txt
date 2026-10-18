@@ -1,4 +1,4 @@
-RezTank.Test.v3.76
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.76/RezTank.Test.v3.76.dll
-d930aeb3549682549676cb869a7553c0200eefcf931410ba75f6252707025500
-v3.76: Skip Life/Creature spells from Equipment now also applies to self buffs and Force buff
+RezTank.Test.v3.78
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.78/RezTank.Test.v3.78.dll
+718973b0742524cc38f4b8f0fbd5ac1fe2521a548824ca99eb8249af99ddd627
+v3.78: Dark Isle Scouting counts per rock and refreshes after each stone; v3.77: kill-task creature variants; v3.76: equipment buff skip for self buffs

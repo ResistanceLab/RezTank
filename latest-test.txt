@@ -1,4 +1,4 @@
-RezTank.Test.v3.78
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.78/RezTank.Test.v3.78.dll
-718973b0742524cc38f4b8f0fbd5ac1fe2521a548824ca99eb8249af99ddd627
-v3.78: Dark Isle Scouting counts per rock and refreshes after each stone; v3.77: kill-task creature variants; v3.76: equipment buff skip for self buffs
+RezTank.Test.v3.79
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.79/RezTank.Test.v3.79.dll
+89d5ffb5e60d9d919c1abbd2299ae52e4b07eeb6a622fd2bda0e49981f319f17
+v3.79: delivery tasks mark Ready on the delivery NPC's reply; v3.78: Dark Isle Scouting per-rock updates; v3.77: kill-task creature variants; v3.76: equipment buff skip for self buffs

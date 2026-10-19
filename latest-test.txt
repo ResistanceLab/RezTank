@@ -1,4 +1,4 @@
-RezTank.Test.v4.08
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.08/RezTank.Test.v4.08.dll
-2fef6ce7a9ad2b8698a1c0c4fb9aef8fbe7905cc59380a7c000e9504a2e064bf
-v4.08: loot profile share strings (Rez Loot Editor format) - Share/Import on the Loot Rules window, /rz lootshare, /rz lootimport, imports go to Loot Profiles\Imported; v4.07: Target lock text removed; v4.06: meta State dropdown on the Mini Remote
+RezTank.Test.v4.09
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.09/RezTank.Test.v4.09.dll
+41537966858db6974513f125a43580678d4f4b0d31a6618c5a156eebf8f56fe4
+v4.09: Loot Share window - Share shows the string, Import is a paste box; v4.08: loot profile share strings (Rez Loot Editor format), imports go to Loot Profiles\Imported; v4.07: Target lock text removed

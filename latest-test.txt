@@ -1,4 +1,4 @@
-RezTank.Test.v4.07
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.07/RezTank.Test.v4.07.dll
-0a891ef817b77c1748b6ef7e0a5dd01693a9e15a65180a7277a75ac5e7a3c675
-v4.07: Mini Remote - Target lock text removed, window grows to show the State row; v4.06: meta State dropdown on the Mini Remote; v4.05: Dark Isle Scouting counts each rock
+RezTank.Test.v4.08
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.08/RezTank.Test.v4.08.dll
+2fef6ce7a9ad2b8698a1c0c4fb9aef8fbe7905cc59380a7c000e9504a2e064bf
+v4.08: loot profile share strings (Rez Loot Editor format) - Share/Import on the Loot Rules window, /rz lootshare, /rz lootimport, imports go to Loot Profiles\Imported; v4.07: Target lock text removed; v4.06: meta State dropdown on the Mini Remote

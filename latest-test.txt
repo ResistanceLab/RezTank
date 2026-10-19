@@ -1,4 +1,4 @@
-RezTank.Test.v3.92
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.92/RezTank.Test.v3.92.dll
-f1756b2af12803610e0cf85653e978c48fd4e4a324dae03fac584cc5b0544a61
-v3.92: weapon exclusion works without caster records, buffdebug parser diagnostics; v3.91: equipment buff skip keys on untimed enchantments; v3.89: updater replaces a staged build
+RezTank.Test.v3.94
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.94/RezTank.Test.v3.94.dll
+cf48f769c4b6bb5929119fb8232f4e8881d2d8a5662e58a8c5298926fcc56d3d
+v3.94: wielded weapon identified after login for the equipment buff skip; v3.93: item-cast chat lines, buffdebug hook diagnostics; v3.91: equipment skip keys on untimed enchantments; v3.89: updater replaces a staged build

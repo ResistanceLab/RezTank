@@ -1,4 +1,4 @@
-RezTank.Test.v3.90
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.90/RezTank.Test.v3.90.dll
-a591454a363467b8060edbbb17bec81be4ce4f0f66197a00af1a0a45b632d66d
-v3.90: equipment buff skip recognises worn gear again; v3.89: updater replaces a staged build when a newer one is published; v3.88: /rz buffdebug; v3.84: Loot Rules window
+RezTank.Test.v3.91
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.91/RezTank.Test.v3.91.dll
+fa19496d107fb66d3e12a0d4f0485a6b2b9e4b693172b964e1437cb291e44df0
+v3.91: equipment buff skip keys on untimed (worn gear) enchantments; v3.89: updater replaces a staged build when a newer one is published; v3.88: /rz buffdebug; v3.84: Loot Rules window

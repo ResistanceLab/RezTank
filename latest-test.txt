@@ -1,4 +1,4 @@
-RezTank.Test.v3.87
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.87/RezTank.Test.v3.87.dll
-8665e65f908b205c1dd7935ebb403814681302c4f27412ab8f0eb004ec5547f1
-v3.87: equipment buff skip only for worn gear (other players' buffs are recast); v3.85: buff summary timing; v3.84: Loot Rules window; v3.81: Suit tab fix for /facet; v3.80-v3.77: Society Helper fixes
+RezTank.Test.v3.88
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.88/RezTank.Test.v3.88.dll
+9c4ba068b7b43bb68b7865d183c6d2387b55667e7057453e40d8af9f91ed9c84
+v3.88: /rz buffdebug; v3.87: equipment buff skip only for worn gear; v3.85: buff summary timing; v3.84: Loot Rules window; v3.81: Suit tab fix for /facet

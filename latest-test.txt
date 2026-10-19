@@ -1,4 +1,4 @@
-RezTank.Test.v3.97
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.97/RezTank.Test.v3.97.dll
-9713362a137d10fa27220c6f0696e68280617bd07c7b8160a1d38088a068d88b
-v3.97: buffdebug shows layers of would-cast spells; v3.96: equipment skip leaves timed spells alone when a worn item is known to grant them; v3.94: wielded weapon identified after login; v3.89: updater replaces a staged build
+RezTank.Test.v3.98
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v3.98/RezTank.Test.v3.98.dll
+c8a2672bc28363bf8362a2711a188ca1826520e7be1050d08f3a612b7e764d33
+v3.98: target-lock button on the Ultra Mini Remote; v3.97: buffdebug shows layers of would-cast spells; v3.96: equipment skip leaves timed spells alone when a worn item is known to grant them; v3.89: updater replaces a staged build

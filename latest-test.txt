@@ -1,4 +1,4 @@
-RezTank.Test.v4.06
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.06/RezTank.Test.v4.06.dll
-9da5a8deafa4bb0386df98a037d7638df45ea544b2aa740025c02d08c94af069
-v4.06: meta State dropdown on the Mini Remote; v4.05: Dark Isle Scouting counts each rock from the crystal line; v4.04: Ultra/full Mini Remote switch works in one click, lock and logo upper right
+RezTank.Test.v4.07
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.07/RezTank.Test.v4.07.dll
+0a891ef817b77c1748b6ef7e0a5dd01693a9e15a65180a7277a75ac5e7a3c675
+v4.07: Mini Remote - Target lock text removed, window grows to show the State row; v4.06: meta State dropdown on the Mini Remote; v4.05: Dark Isle Scouting counts each rock

@@ -1,4 +1,4 @@
-RezTank.Test.v4.02
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.02/RezTank.Test.v4.02.dll
-6826fbc88ee8622f88b864d6f9fee4b125235ca0ff8cf36fcb55d7d4a4150a96
-v4.02: ticking Mini Remote while Ultra is open switches straight to the full remote; v4.01: lock and logo side by side, no Target lock text; v3.97: buffdebug shows layers of would-cast spells; v3.96: equipment skip leaves timed spells alone when a worn item is known to grant them
+RezTank.Test.v4.04
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.04/RezTank.Test.v4.04.dll
+f9b2fb02945fff6214d78947a323d74ac1abd34f9c3659ad199099d3fe354e75
+v4.04: Ultra/full Mini Remote switch works in one click, lock and logo in the upper-right corner; v4.03: quest-flag refresh line only on manual Refresh; v3.96: equipment skip leaves timed gear spells alone; v3.84: Loot Rules window

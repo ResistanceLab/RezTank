@@ -1,4 +1,4 @@
-RezTank.Test.v4.13
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.13/RezTank.Test.v4.13.dll
-b8b2ff853d28b7c3bc795b6c2f3207118ad7e75a5a5c4eab46e89ac5d9699480
-v4.13: Loot Rules up/down arrows move the selected rule, click only selects; v4.12: change rule actions
+RezTank.Test.v4.14
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.14/RezTank.Test.v4.14.dll
+386f55b40ab604a27551a6ecbfa2d143fa3c3793ca44a1264e080cb623aa2bc0
+v4.14: Loot Rules arrows green up / red down; v4.13: move rules up/down, click only selects; v4.12: change rule actions

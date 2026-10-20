@@ -1,4 +1,4 @@
-RezTank.Test.v4.28
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.28/RezTank.Test.v4.28.dll
-b6687cb8c002b8880c54d20473021196526d5d85b1a9d4757279befa9d5e31f1
-v4.28: autopack waits while IDs keep arriving (no early give-up); v4.27: profile remembered at login, Copy Rule, smoother window drags
+RezTank.Test.v4.30
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.30/RezTank.Test.v4.30.dll
+e493aa16e2b5d32f1230e6f1edb455102512727e429b36dddeb2f7017a055a98
+v4.30: fixes Virindi Integrator "Field not found: uTank2.sWaypointDesc.loc" (stock field names on public structs); v4.29: Hide Meta messages tick

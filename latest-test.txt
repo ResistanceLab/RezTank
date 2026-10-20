@@ -1,4 +1,4 @@
-RezTank.Test.v4.27
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.27/RezTank.Test.v4.27.dll
-13c6a92f307aaa465568d8dca25132a401b96aa64bcc6874af519eca1d205824
-v4.27: autopack profile remembered at login, Copy Rule (Loot Rules + Autopack), window dragging no longer laggy; v4.26: Rule Editor text saving
+RezTank.Test.v4.28
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.28/RezTank.Test.v4.28.dll
+b6687cb8c002b8880c54d20473021196526d5d85b1a9d4757279befa9d5e31f1
+v4.28: autopack waits while IDs keep arriving (no early give-up); v4.27: profile remembered at login, Copy Rule, smoother window drags

@@ -1,4 +1,4 @@
-RezTank.Test.v4.32
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.32/RezTank.Test.v4.32.dll
-6c0e375aba22e1d8c5a73e54a17ff47b557920c3cbe4ec96337a84a533185533
-Character > Pack tab (BillyPack built in), Periodic Auto Organize
+RezTank.Test.v4.33
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.33/RezTank.Test.v4.33.dll
+3af9539201e39a9a131eca64b62cbdaee52984c43011a050cfd3325ca49aef48
+Update tab: Check for Update becomes Cancel Update while downloading

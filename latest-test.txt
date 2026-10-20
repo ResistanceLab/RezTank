@@ -1,4 +1,4 @@
-RezTank.Test.v4.23
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.23/RezTank.Test.v4.23.dll
-adf81d64e534d903a765e8b69caad945223af5da583b7c1a6e37f3f15361503a
-v4.23: Autopack/Rule Editor windows draw (picture disposal bug), autopack profiles per server, Options > Chat meta messages toggle, /rz opt
+RezTank.Test.v4.25
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.25/RezTank.Test.v4.25.dll
+06806cf5b4cf009f7c5b1ad15f85b2b9410feb486a9bb427d9998f3c776ad6a2
+v4.25: autopack ID handling matches Mag-Tools (VTClassic decides, Decal RequestId burst); v4.24: faster runs, no-room reporting, /rz autopack why

@@ -1,4 +1,4 @@
-RezTank.Test.v4.31
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.31/RezTank.Test.v4.31.dll
-049a42995f5f0a9b4a08ae6d7dd9da4e99daf4b0abd01d7c6580577923596539
-v4.31: fixes Field not found MyPair gparam_1 from v4.30 (do not use v4.30); stock field names for VI2 kept
+RezTank.Test.v4.32
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.32/RezTank.Test.v4.32.dll
+6c0e375aba22e1d8c5a73e54a17ff47b557920c3cbe4ec96337a84a533185533
+Character > Pack tab (BillyPack built in), Periodic Auto Organize

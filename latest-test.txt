@@ -1,4 +1,4 @@
-RezTank.Test.v4.09
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.09/RezTank.Test.v4.09.dll
-41537966858db6974513f125a43580678d4f4b0d31a6618c5a156eebf8f56fe4
-v4.09: Loot Share window - Share shows the string, Import is a paste box; v4.08: loot profile share strings (Rez Loot Editor format), imports go to Loot Profiles\Imported; v4.07: Target lock text removed
+RezTank.Test.v4.10
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.10/RezTank.Test.v4.10.dll
+73c0902a4879fd3ef5e7be2d8a7f68d6f15d1d417e11241ae10c16d82e9f86c1
+v4.10: Melee tab custom power also sets missile accuracy; v4.09: Loot Share window; v4.08: loot profile share strings

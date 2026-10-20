@@ -1,4 +1,4 @@
-RezTank.Test.v4.15
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.15/RezTank.Test.v4.15.dll
-40f2180e5c44875b0e92d84e7f47b3e54ccc91731920f06bd994b220ef5f63e1
-v4.15: Loot Rules section headers (no tick, light blue, click to fold); v4.14: green/red arrows; v4.13: move rules
+RezTank.Test.v4.19
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.19/RezTank.Test.v4.19.dll
+6306d6e1ecca23b8201d6e85249bb5aaa46e919be77c30aac7fc6391b7d86200
+v4.19: Autopack (Profiles tab Enable Autopack, Autopack window, New Rule, /rz autopack); v4.18: loot profile load fix

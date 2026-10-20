@@ -1,4 +1,4 @@
-RezTank.Test.v4.26
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.26/RezTank.Test.v4.26.dll
-c3b829a49a94a22ff01f864e55fe3924e1f851f0073af7a3c3f8f324ce1e1b2c
-v4.26: Rule Editor reads typed text on Save (regex was not saving), refuses empty regexes; Pack Now no longer waits for open corpses
+RezTank.Test.v4.27
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.27/RezTank.Test.v4.27.dll
+13c6a92f307aaa465568d8dca25132a401b96aa64bcc6874af519eca1d205824
+v4.27: autopack profile remembered at login, Copy Rule (Loot Rules + Autopack), window dragging no longer laggy; v4.26: Rule Editor text saving

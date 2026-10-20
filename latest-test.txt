@@ -1,4 +1,4 @@
-RezTank.Test.v4.10
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.10/RezTank.Test.v4.10.dll
-73c0902a4879fd3ef5e7be2d8a7f68d6f15d1d417e11241ae10c16d82e9f86c1
-v4.10: Melee tab custom power also sets missile accuracy; v4.09: Loot Share window; v4.08: loot profile share strings
+RezTank.Test.v4.11
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.11/RezTank.Test.v4.11.dll
+a97c5a4bdf4496fd62b9eb2d3d7ae6b54d8693cb3a01d34acd4d267a7031280b
+v4.11: Options tab Melee renamed Melee/Missile; v4.10: custom power also sets missile accuracy; v4.09: Loot Share window

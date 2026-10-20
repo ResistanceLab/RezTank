@@ -1,4 +1,4 @@
-RezTank.Test.v4.11
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.11/RezTank.Test.v4.11.dll
-a97c5a4bdf4496fd62b9eb2d3d7ae6b54d8693cb3a01d34acd4d267a7031280b
-v4.11: Options tab Melee renamed Melee/Missile; v4.10: custom power also sets missile accuracy; v4.09: Loot Share window
+RezTank.Test.v4.12
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.12/RezTank.Test.v4.12.dll
+6118243c95da4ae8da96dd08eea96f7c022f405a02234f213918171be037b94e
+v4.12: Loot Rules window changes rule actions (Keep, Keep #, Salvage, Sell, Read), priority column removed; v4.11: Melee/Missile tab

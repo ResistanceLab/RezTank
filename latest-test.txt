@@ -1,4 +1,4 @@
-RezTank.Test.v4.22
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.22/RezTank.Test.v4.22.dll
-42b55160d73d23089594d8ebe34af4879293e1b13ebae8d83fe76a3fb2077b38
-v4.22: in-game Rule Editor (Loot Rules + Autopack), Learn/Common types removed; v4.21: autopack profiles per server/character
+RezTank.Test.v4.23
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.23/RezTank.Test.v4.23.dll
+adf81d64e534d903a765e8b69caad945223af5da583b7c1a6e37f3f15361503a
+v4.23: Autopack/Rule Editor windows draw (picture disposal bug), autopack profiles per server, Options > Chat meta messages toggle, /rz opt

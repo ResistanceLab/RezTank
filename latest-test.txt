@@ -1,4 +1,4 @@
-RezTank.Test.v4.44
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.44/RezTank.Test.v4.44.dll
-5de0c362f9096a170763e28008945ee4c9fd925b0af56a3a9d233338c1604414
-Equipment skip no longer blocks higher-level buffs; RZ: loot lines; Corpses killer; attack watchdog
+RezTank.Test.v4.46
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.46/RezTank.Test.v4.46.dll
+5c937df218da51e1b2c634910ef5c3d42e652658e10cad86c663c6445991b5ba
+Corpses keeps the last 10 chat lines before each death; death message from chat; buff equipment-skip fix

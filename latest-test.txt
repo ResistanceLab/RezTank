@@ -1,4 +1,4 @@
-RezTank.Test.v4.43
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.43/RezTank.Test.v4.43.dll
-abe19030a71d071df1456519532caf7987461834db786320887fdf1dd4609f09
-Loot lines say RZ:; Corpses shows the killer; melee/archer watchdog
+RezTank.Test.v4.44
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.44/RezTank.Test.v4.44.dll
+5de0c362f9096a170763e28008945ee4c9fd925b0af56a3a9d233338c1604414
+Equipment skip no longer blocks higher-level buffs; RZ: loot lines; Corpses killer; attack watchdog

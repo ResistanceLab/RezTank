@@ -1,4 +1,4 @@
-RezTank.Test.v4.40
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.40/RezTank.Test.v4.40.dll
-013175e47af486c28dbc86d3baca729e97aaafde6948f676ec64166150a73d9a
-Character > Corpses: last 10 deaths with coordinates and dropped items
+RezTank.Test.v4.42
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.42/RezTank.Test.v4.42.dll
+cb3d0c2561a1550291e32869e06d73a1cfecbd29e0e7e17e86c8d43ac84d2da8
+Corpses shows what killed you; melee/archer stalled-attack watchdog

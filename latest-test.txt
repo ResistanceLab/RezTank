@@ -1,4 +1,4 @@
-RezTank.Test.v4.33
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.33/RezTank.Test.v4.33.dll
-3af9539201e39a9a131eca64b62cbdaee52984c43011a050cfd3325ca49aef48
-Update tab: Check for Update becomes Cancel Update while downloading
+RezTank.Test.v4.37
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.37/RezTank.Test.v4.37.dll
+560fd72e7128774bcf0cfce096228c797e48d3e48cf869cfb073a609a078ea76
+/rt removed - /rz only; /rz af, /rz sort, /rz organize

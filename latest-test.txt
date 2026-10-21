@@ -1,4 +1,4 @@
-RezTank.Test.v4.42
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.42/RezTank.Test.v4.42.dll
-cb3d0c2561a1550291e32869e06d73a1cfecbd29e0e7e17e86c8d43ac84d2da8
-Corpses shows what killed you; melee/archer stalled-attack watchdog
+RezTank.Test.v4.43
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.43/RezTank.Test.v4.43.dll
+abe19030a71d071df1456519532caf7987461834db786320887fdf1dd4609f09
+Loot lines say RZ:; Corpses shows the killer; melee/archer watchdog

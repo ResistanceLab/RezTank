@@ -1,4 +1,4 @@
-RezTank.Test.v4.37
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.37/RezTank.Test.v4.37.dll
-560fd72e7128774bcf0cfce096228c797e48d3e48cf869cfb073a609a078ea76
-/rt removed - /rz only; /rz af, /rz sort, /rz organize
+RezTank.Test.v4.38
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.38/RezTank.Test.v4.38.dll
+ae05a55bcb2e0e637ec3dc0bb0fd2c33463ca6134623d2440126e0f00fb5a016
+Options > Chat > Filters (Mag-Tools chat filters); /rz only

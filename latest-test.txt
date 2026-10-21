@@ -1,4 +1,4 @@
-RezTank.Test.v4.46
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.46/RezTank.Test.v4.46.dll
-5c937df218da51e1b2c634910ef5c3d42e652658e10cad86c663c6445991b5ba
-Corpses keeps the last 10 chat lines before each death; death message from chat; buff equipment-skip fix
+RezTank.Test.v4.47
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.47/RezTank.Test.v4.47.dll
+6f1feaab692785e86b46da8da3b4afe8522e1cc508e169a97c9d76491f79c490
+Fix wand/weapon swap loop with equipment skip on; buffdebug list not cut off

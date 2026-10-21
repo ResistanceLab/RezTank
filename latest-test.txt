@@ -1,4 +1,4 @@
-RezTank.Test.v4.38
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.38/RezTank.Test.v4.38.dll
-ae05a55bcb2e0e637ec3dc0bb0fd2c33463ca6134623d2440126e0f00fb5a016
-Options > Chat > Filters (Mag-Tools chat filters); /rz only
+RezTank.Test.v4.40
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.40/RezTank.Test.v4.40.dll
+013175e47af486c28dbc86d3baca729e97aaafde6948f676ec64166150a73d9a
+Character > Corpses: last 10 deaths with coordinates and dropped items

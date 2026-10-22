@@ -1,4 +1,4 @@
-RezTank.Test.v4.50
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.50/RezTank.Test.v4.50.dll
-a1859af5ed23e7066492cb1ca62538f550de47f997078f15aa01263031413cf6
-v4.50: Item Info Containers no longer lists your own character / packs; carries v4.49
+RezTank.Test.v4.51
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.51/RezTank.Test.v4.51.dll
+183957364f515107724cc99a78387ce681c5bc699a59f5a5fee764673cf3257f
+v4.51: Click IDs only for the click itself; iteminfo debug names which part of RezTank asked for an ID; carries v4.50

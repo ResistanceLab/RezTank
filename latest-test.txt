@@ -1,4 +1,4 @@
-RezTank.Test.v4.51
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.51/RezTank.Test.v4.51.dll
-183957364f515107724cc99a78387ce681c5bc699a59f5a5fee764673cf3257f
-v4.51: Click IDs only for the click itself; iteminfo debug names which part of RezTank asked for an ID; carries v4.50
+RezTank.Test.v4.53
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.53/RezTank.Test.v4.53.dll
+1f11a0eecac0f49e77e059a022b94c3784d22053cc7863b101069c1350c699cd
+v4.53: Force buff casts the buffs itself with the macro / Buffing left off (no switches toggled; weapons put back after); carries v4.52

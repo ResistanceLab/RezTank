@@ -1,4 +1,4 @@
-RezTank.Test.v4.53
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.53/RezTank.Test.v4.53.dll
-1f11a0eecac0f49e77e059a022b94c3784d22053cc7863b101069c1350c699cd
-v4.53: Force buff casts the buffs itself with the macro / Buffing left off (no switches toggled; weapons put back after); carries v4.52
+RezTank.Test.v4.54
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.54/RezTank.Test.v4.54.dll
+4a5d4c40f5b3594a792c0fc4dc42aae6ea58b7db8b38383213a993be261859bd
+v4.54: Force buff with the macro off also runs Vitals (heal/stam/mana), and afterwards re-wields only what the run took off; carries v4.53

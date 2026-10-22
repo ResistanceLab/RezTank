@@ -1,4 +1,4 @@
-RezTank.Test.v4.48
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.48/RezTank.Test.v4.48.dll
-e458ae0c0e628ac0cd341d5de2a9b85db9a63be61b49cc5d67caae8c1f9354bf
-v4.48: /rz sort runs at BillyPack speed; carries v4.47
+RezTank.Test.v4.49
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.49/RezTank.Test.v4.49.dll
+ce81499d671a28909af9ad763c4c1e7be3bc29a59bd399cc6717e83b5779326b
+v4.49: Force buff works with the macro or Buffing off; carries v4.48

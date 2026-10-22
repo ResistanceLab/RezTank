@@ -1,4 +1,4 @@
-RezTank.Test.v4.47
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.47/RezTank.Test.v4.47.dll
-6f1feaab692785e86b46da8da3b4afe8522e1cc508e169a97c9d76491f79c490
-Fix wand/weapon swap loop with equipment skip on; buffdebug list not cut off
+RezTank.Test.v4.48
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.48/RezTank.Test.v4.48.dll
+e458ae0c0e628ac0cd341d5de2a9b85db9a63be61b49cc5d67caae8c1f9354bf
+v4.48: /rz sort runs at BillyPack speed; carries v4.47

@@ -1,4 +1,4 @@
-RezTank.Test.v4.49
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.49/RezTank.Test.v4.49.dll
-ce81499d671a28909af9ad763c4c1e7be3bc29a59bd399cc6717e83b5779326b
-v4.49: Force buff works with the macro or Buffing off; carries v4.48
+RezTank.Test.v4.50
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.50/RezTank.Test.v4.50.dll
+a1859af5ed23e7066492cb1ca62538f550de47f997078f15aa01263031413cf6
+v4.50: Item Info Containers no longer lists your own character / packs; carries v4.49

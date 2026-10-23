@@ -1,4 +1,4 @@
-RezTank.Test.v4.56
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.56/RezTank.Test.v4.56.dll
-19ea80c5959f2eec905772b05dd748868970ee3075fa0e15ee9eed10c343084c
-v4.56: Force buff (macro off) error lines name the step that failed, in chat and in reztank-error.txt; carries v4.55
+RezTank.Test.v4.57
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.57/RezTank.Test.v4.57.dll
+376e8821c2e51b9bafd539304cec1bc6f571ece50d27d2743fe914645e752783
+v4.57: Force buff (macro off) no longer swaps weapons afterwards - it just drops to peace like the macro does; carries v4.56

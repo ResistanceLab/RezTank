@@ -1,4 +1,4 @@
-RezTank.Test.v4.55
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.55/RezTank.Test.v4.55.dll
-770c1a0f8751164042e865d60c343795961ae80732a1ae39ea2d04cae7e8854a
-v4.55: Force buff (macro off) no longer fails after a relog - timer and vitals rule made fresh per run; error log names the stage; carries v4.54
+RezTank.Test.v4.56
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.56/RezTank.Test.v4.56.dll
+19ea80c5959f2eec905772b05dd748868970ee3075fa0e15ee9eed10c343084c
+v4.56: Force buff (macro off) error lines name the step that failed, in chat and in reztank-error.txt; carries v4.55

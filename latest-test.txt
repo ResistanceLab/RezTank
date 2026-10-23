@@ -1,4 +1,4 @@
-RezTank.Test.v4.54
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.54/RezTank.Test.v4.54.dll
-4a5d4c40f5b3594a792c0fc4dc42aae6ea58b7db8b38383213a993be261859bd
-v4.54: Force buff with the macro off also runs Vitals (heal/stam/mana), and afterwards re-wields only what the run took off; carries v4.53
+RezTank.Test.v4.55
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.55/RezTank.Test.v4.55.dll
+770c1a0f8751164042e865d60c343795961ae80732a1ae39ea2d04cae7e8854a
+v4.55: Force buff (macro off) no longer fails after a relog - timer and vitals rule made fresh per run; error log names the stage; carries v4.54

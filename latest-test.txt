@@ -1,4 +1,4 @@
-RezTank.Test.v4.61
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.61/RezTank.Test.v4.61.dll
-16504720294a8320cc959184201aa94a7372d760609568b8e6870b0bb9f41797
-v4.61: built-in monster DB gains the 359 DreamWeave monsters (pack f4fb45e13aed); carries v4.60
+RezTank.Test.v4.63
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.63/RezTank.Test.v4.63.dll
+38d93e68062efd94491fdcb60b1a3b6202659f40af578193445ea412db36b240
+v4.63: the DreamWeave pack is authoritative - its species / HP replace learned values for those monsters; carries v4.62

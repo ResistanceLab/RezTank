@@ -1,4 +1,4 @@
-RezTank.Test.v4.64
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.64/RezTank.Test.v4.64.dll
-7cb95357b857df4bfd23811c5009a27b965322bcd26c6c87da333b3cfba37f80
-v4.64: Buffs tab Auto Fellow for Buffs - creates a fellowship named Hello when a fellowship-only buff comes up outside one; carries v4.63
+RezTank.Test.v4.65
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.65/RezTank.Test.v4.65.dll
+8e445889c2e5777922115c5805d850c8f7c511c57367cf414b3e93d2e293a6ea
+v4.65: Buffs tab - second row holds Skip Life/Creature from Equipment, consumable timing tick + minutes, Auto Fellow (was drawn under the lists); carries v4.64

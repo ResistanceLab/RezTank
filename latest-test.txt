@@ -1,4 +1,4 @@
-RezTank.Test.v4.63
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.63/RezTank.Test.v4.63.dll
-38d93e68062efd94491fdcb60b1a3b6202659f40af578193445ea412db36b240
-v4.63: the DreamWeave pack is authoritative - its species / HP replace learned values for those monsters; carries v4.62
+RezTank.Test.v4.64
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.64/RezTank.Test.v4.64.dll
+7cb95357b857df4bfd23811c5009a27b965322bcd26c6c87da333b3cfba37f80
+v4.64: Buffs tab Auto Fellow for Buffs - creates a fellowship named Hello when a fellowship-only buff comes up outside one; carries v4.63

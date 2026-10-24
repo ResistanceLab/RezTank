@@ -1,4 +1,4 @@
-RezTank.Test.v4.60
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.60/RezTank.Test.v4.60.dll
-bc97f3fbf25b05f017d87a31a31e013124d8c93d546c4980b4f9557d8965c551
-v4.60: Options > Chat renamed Chat Filters (the ticks sit directly on the tab); carries v4.59
+RezTank.Test.v4.61
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.61/RezTank.Test.v4.61.dll
+16504720294a8320cc959184201aa94a7372d760609568b8e6870b0bb9f41797
+v4.61: built-in monster DB gains the 359 DreamWeave monsters (pack f4fb45e13aed); carries v4.60

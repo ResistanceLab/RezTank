@@ -1,4 +1,4 @@
-RezTank.Test.v4.67
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.67/RezTank.Test.v4.67.dll
-98a33280f2fbd8ec6cc56bcaff06c2f1c56e040f9be88c79dbb634f4e29cfa5e
-v4.67: Auto Fellow creates the fellowship exactly as FellowBouncer does; says in chat why it did nothing; carries v4.65
+RezTank.Test.v4.68
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.68/RezTank.Test.v4.68.dll
+df0be3eedb43414a0940d070a0cd0d6eb8e7302ad62ae3ac38ce57619a101354
+v4.68: Auto Fellow names the fellowship from FellowBouncer's 60 random names; carries v4.67

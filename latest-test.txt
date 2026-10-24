@@ -1,4 +1,4 @@
-RezTank.Test.v4.65
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.65/RezTank.Test.v4.65.dll
-8e445889c2e5777922115c5805d850c8f7c511c57367cf414b3e93d2e293a6ea
-v4.65: Buffs tab - second row holds Skip Life/Creature from Equipment, consumable timing tick + minutes, Auto Fellow (was drawn under the lists); carries v4.64
+RezTank.Test.v4.67
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.67/RezTank.Test.v4.67.dll
+98a33280f2fbd8ec6cc56bcaff06c2f1c56e040f9be88c79dbb634f4e29cfa5e
+v4.67: Auto Fellow creates the fellowship exactly as FellowBouncer does; says in chat why it did nothing; carries v4.65

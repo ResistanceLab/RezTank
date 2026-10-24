@@ -1,4 +1,4 @@
-RezTank.Test.v4.57
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.57/RezTank.Test.v4.57.dll
-376e8821c2e51b9bafd539304cec1bc6f571ece50d27d2743fe914645e752783
-v4.57: Force buff (macro off) no longer swaps weapons afterwards - it just drops to peace like the macro does; carries v4.56
+RezTank.Test.v4.59
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.59/RezTank.Test.v4.59.dll
+2a60c1fdb5ce3b61b128ee940fdf1a0566b80a54835539d338271310850b1e33
+v4.59: Buffs tab tick Force Buff Checks Consumable Timings + minutes box (off = stock: consumables used on every force buff); carries v4.58

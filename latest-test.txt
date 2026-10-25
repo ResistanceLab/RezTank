@@ -1,4 +1,4 @@
-RezTank.Test.v4.71
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.71/RezTank.Test.v4.71.dll
-27c4455622ffb051521f8e65756a621e03676951906969e7c1bfdd2bc16dd9c6
-v4.71: Buffs tab Reuse Consumables if under N min - consumable buff items re-used on their own with the macro / Buffing off; carries v4.70
+RezTank.Test.v4.73
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.73/RezTank.Test.v4.73.dll
+57640b8200a23cf16c03b1937371af0ef448380920201f33b1e632a167684e76
+v4.73: /rz stackdebug - what AutoStack sees, would do, and what stops it; carries v4.72

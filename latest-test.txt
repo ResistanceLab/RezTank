@@ -1,4 +1,4 @@
-RezTank.Test.v4.68
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.68/RezTank.Test.v4.68.dll
-df0be3eedb43414a0940d070a0cd0d6eb8e7302ad62ae3ac38ce57619a101354
-v4.68: Auto Fellow names the fellowship from FellowBouncer's 60 random names; carries v4.67
+RezTank.Test.v4.69
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.69/RezTank.Test.v4.69.dll
+5bf98f70ac3f78e3a6675f3600ef2659aff360282562ca8a73f5c858b48b3928
+v4.69: the Auto Fellow for Buffs tick works (it was bound to the stock Auto Fellow Mgmt box of the same name); carries v4.68

@@ -1,4 +1,4 @@
-RezTank.Test.v4.81
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.81/RezTank.Test.v4.81.dll
-de4d23eda623b97a71e032e49338293fb3f0995811a97c931ff2729dc6827be8
-v4.81: Reuse Consumables works with the macro on too, reads time left from the game, and says why a due item was not used; carries v4.80
+RezTank.Test.v4.83
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.83/RezTank.Test.v4.83.dll
+37cd13fe62291a783fea7ae2427a7c0d8d9bb5fbe23350f84050b3eedfb3a985
+v4.83: Reuse Consumables - a working fellowship item is no longer blocked as tried, no stuck buff cycle; /rz reusedebug; carries v4.82

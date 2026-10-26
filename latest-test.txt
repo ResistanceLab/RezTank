@@ -1,4 +1,4 @@
-RezTank.Test.v4.78
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.78/RezTank.Test.v4.78.dll
-318aa107e78062737ae268b6e6f1743808fbf739de64fbacc6fbdfbdd485e012
-v4.78: with Auto Fellow off, fellowship buff items are used anyway - once per buff session; carries v4.77
+RezTank.Test.v4.80
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.80/RezTank.Test.v4.80.dll
+f29d442f9a176178a282588aa2f61757796a3ffbdcd42d643111bd034f0aa939
+v4.80: equipment skip reads gear buffs from what is worn (item spell lists) - a gear buff is never recast, even after a cast landed on top; carries v4.79

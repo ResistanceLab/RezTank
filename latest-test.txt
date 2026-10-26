@@ -1,4 +1,4 @@
-RezTank.Test.v4.80
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.80/RezTank.Test.v4.80.dll
-f29d442f9a176178a282588aa2f61757796a3ffbdcd42d643111bd034f0aa939
-v4.80: equipment skip reads gear buffs from what is worn (item spell lists) - a gear buff is never recast, even after a cast landed on top; carries v4.79
+RezTank.Test.v4.81
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.81/RezTank.Test.v4.81.dll
+de4d23eda623b97a71e032e49338293fb3f0995811a97c931ff2729dc6827be8
+v4.81: Reuse Consumables works with the macro on too, reads time left from the game, and says why a due item was not used; carries v4.80

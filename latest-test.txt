@@ -1,4 +1,4 @@
-RezTank.Test.v4.74
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.74/RezTank.Test.v4.74.dll
-1677327ccb75f53e5262e69be194f099f16de78b3fe081603e388ce73a67a0bd
-v4.74: fixes v4.72/v4.73 AutoStack never merging (count / max read the wrong way round); stackdebug shows count/max correctly; carries v4.73
+RezTank.Test.v4.78
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.78/RezTank.Test.v4.78.dll
+318aa107e78062737ae268b6e6f1743808fbf739de64fbacc6fbdfbdd485e012
+v4.78: with Auto Fellow off, fellowship buff items are used anyway - once per buff session; carries v4.77

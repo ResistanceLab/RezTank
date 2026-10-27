@@ -1,4 +1,4 @@
-RezTank.Test.v4.83
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.83/RezTank.Test.v4.83.dll
-37cd13fe62291a783fea7ae2427a7c0d8d9bb5fbe23350f84050b3eedfb3a985
-v4.83: Reuse Consumables - a working fellowship item is no longer blocked as tried, no stuck buff cycle; /rz reusedebug; carries v4.82
+RezTank.Test.v4.84
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.84/RezTank.Test.v4.84.dll
+c2405af49bc9e913262f87930933f4e9d62d41e5bbcdce9d9fac24a06442936e
+v4.84: Meta Views get a text control with colour / font size / justify; uisetlabel works on it; new uisetcolor[control, colour]; carries v4.83

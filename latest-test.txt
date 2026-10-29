@@ -1,4 +1,4 @@
-RezTank.Test.v4.84
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.84/RezTank.Test.v4.84.dll
-c2405af49bc9e913262f87930933f4e9d62d41e5bbcdce9d9fac24a06442936e
-v4.84: Meta Views get a text control with colour / font size / justify; uisetlabel works on it; new uisetcolor[control, colour]; carries v4.83
+RezTank.Test.v4.88
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.88/RezTank.Test.v4.88.dll
+d84539a2d4ae8e9790aa835d08167128c2f08cbc45de7106ddbc7cbe4ee107a5
+Buffs tab: Buffing Wand - select a wand, Add Selected, tick it; buffing then uses only that wand

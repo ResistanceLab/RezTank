@@ -1,4 +1,4 @@
-RezTank.Test.v4.88
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.88/RezTank.Test.v4.88.dll
-d84539a2d4ae8e9790aa835d08167128c2f08cbc45de7106ddbc7cbe4ee107a5
-Buffs tab: Buffing Wand - select a wand, Add Selected, tick it; buffing then uses only that wand
+RezTank.Test.v4.89
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.89/RezTank.Test.v4.89.dll
+4911b21b23fccb402c3d05852c7eb48e32af5ebeb530c0521fa11c35b46e9d95
+Buffs tab: Buffing Wand on its own row (tick, Add Selected, wand name)

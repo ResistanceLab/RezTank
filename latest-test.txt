@@ -1,4 +1,4 @@
-RezTank.Test.v4.91
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.91/RezTank.Test.v4.91.dll
-8d6c410176749cb480fc7ded95277b62430b6697b81912814019e6d0c7699473
-Autosalvage: one material per pass, retries leftovers, picks up new items, shows Salvage pass N/total
+RezTank.Test.v4.92
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.92/RezTank.Test.v4.92.dll
+19b9b442c7754281a5c7482b1175815e23e3f167a11deebedb0feb7f9b0a4cc1
+Autosalvage: no-material items left alone and named; pass count; one material per pass; retries; new items picked up

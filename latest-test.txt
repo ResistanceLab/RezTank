@@ -1,4 +1,4 @@
-RezTank.Test.v4.93
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.93/RezTank.Test.v4.93.dll
-ba0e199c38c55ba2535ac0a59c2a29bb75530e723cd7f876fc0296cfd4a3b04c
-Autosalvage: all materials in one pass when Salvage Multiple Materials At Once is on (detected), one material per pass when off
+RezTank.Test.v4.98
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v4.98/RezTank.Test.v4.98.dll
+749b95c5e22806a8569662db8263f0de3671b8799b813dc2339550b8ef7b9139
+v4.98

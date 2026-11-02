@@ -1,4 +1,4 @@
-RezTank.Test.v5.03
-https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v5.03/RezTank.Test.v5.03.dll
-44da7d8c46a6909d5f19e9470d1803ee19accfc10dafb2a2ba591260a3754b47
-v5.03
+RezTank.Test.v5.05
+https://github.com/ResistanceLab/RezTank/releases/download/RezTank.Test.v5.05/RezTank.Test.v5.05.dll
+af3dc1b69d636127126ca9238f397bbd2d6e9d981fe0046b2cd8c483c61c2916
+v5.05
